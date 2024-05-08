@@ -1,0 +1,7 @@
+C:\Users\47370433897\Desktop\lições a fazer\ativListaCsharp 2\ativListaCsharp 2\obj\Debug\ativListaCsharp 2.csproj.AssemblyReference.cache
+C:\Users\47370433897\Desktop\lições a fazer\ativListaCsharp 2\ativListaCsharp 2\obj\Debug\ativListaCsharp 2.csproj.CoreCompileInputs.cache
+C:\Users\47370433897\Desktop\lições a fazer\ativListaCsharp 2\ativListaCsharp 2\bin\Debug\ativListaCsharp 2.exe.config
+C:\Users\47370433897\Desktop\lições a fazer\ativListaCsharp 2\ativListaCsharp 2\bin\Debug\ativListaCsharp 2.exe
+C:\Users\47370433897\Desktop\lições a fazer\ativListaCsharp 2\ativListaCsharp 2\bin\Debug\ativListaCsharp 2.pdb
+C:\Users\47370433897\Desktop\lições a fazer\ativListaCsharp 2\ativListaCsharp 2\obj\Debug\ativListaCsharp 2.exe
+C:\Users\47370433897\Desktop\lições a fazer\ativListaCsharp 2\ativListaCsharp 2\obj\Debug\ativListaCsharp 2.pdb
